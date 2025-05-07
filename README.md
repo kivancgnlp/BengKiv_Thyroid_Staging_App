@@ -1,4 +1,6 @@
 # BengKiv_Thyroid_Staging_App
 
-You can find informaton in the "Wiki" section and submit issues to "Issues" section.
+Wiki information page : https://github.com/kivancgnlp/BengKiv_Thyroid_Staging_App/wiki
+
+Issues page : https://github.com/kivancgnlp/BengKiv_Thyroid_Staging_App/issues
 
