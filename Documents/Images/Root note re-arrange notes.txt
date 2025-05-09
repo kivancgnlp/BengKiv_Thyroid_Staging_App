@@ -1,0 +1,16 @@
+UM = false, Y55 = false --> GROSS ETE
+UM = false, Y55 = true --> I
+
+UM = true, Y55 = false --> IVB
+UM = true, Y55 = true --> II
+
+
+-------------
+
+Y55 = false, UM = false  --> GROSS ETE
+Y55 = false, UM = true --> IVB
+
+Y55 = true, UM = false  --> I
+Y55 = true, UM = true  --> II
+
+
